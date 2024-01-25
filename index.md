@@ -1,4 +1,9 @@
 # This is an H1 markdown header
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
